@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fikatu
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React
+- 💞️ I’m looking to collaborate on Front-end projects
+- 📫 How to reach me. Email : madalins2s@gmail.com
